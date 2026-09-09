@@ -105,4 +105,4 @@ Toda la documentación detallada del proyecto, informes técnicos y desglose del
 | **Actividades 1 y 2** | Análisis AS-IS, Puntos de Fricción y Matriz de Necesidades de Usuarios. | `/docs/tarea1.md` |
 | **Actividades 3 y 4** | Selección de Mecanismo de Agendamiento, Matriz Paramétrica e Indicadores de Eficiencia IHC. | `/docs/indicadores.md y mecanicos.md` |
 | **Actividad 5** | Especificación de Metáforas de Interfaz (Perspectiva Lingüística y Computacional). | `/docs/tarea3.md` |
-| **Actividad 6** | Prototipado de Alta Fidelidad en Figma y Arquitectura de Interacción. | `/docs/prototype/` |
+| **Actividad 6** | Prototipado de Alta Fidelidad en Figma y Arquitectura de Interacción. | `/prototype/` |
