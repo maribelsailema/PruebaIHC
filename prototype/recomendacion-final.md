@@ -1,4 +1,4 @@
-# Actividad 8: Recomendación Final y Conclusiones del Diagnóstico e Intervención HCI
+# Actividad 8: Recomendación Final y Conclusiones del Diagnóstico
 
 ## 1. Dictamen de la Intervención
 Con base en los análisis comparativos entre el sistema AS-IS (mecanismo tradicional) y la propuesta TO-BE (prototipo interactivo basado en estándares HCI), se emite un **dictamen favorable** para la adopción e implementación del nuevo sistema de agendamiento digital.
