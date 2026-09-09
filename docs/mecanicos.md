@@ -46,6 +46,7 @@ Para seleccionar el mecanismo adecuado, se establece una escala de evaluación d
 
 ---
 
+
 ## 4. Justificación Científico-Técnica de la Selección
 
 Se selecciona el **Mecanismo Híbrido** (Puntaje Ponderado: **4.75/5.00**) por las siguientes razones sustentadas en los requerimientos del centro:
