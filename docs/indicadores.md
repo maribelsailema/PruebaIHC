@@ -8,7 +8,7 @@ Para el proyecto en **GABO'S Readaptación y Movimiento**, la variable independi
 
 ## 2. Definición del Multicriterio de Indicadores
 
-Para evaluar de manera integral la variable dependiente, se establece un conjunto multidimensional de 5 indicadores de eficiencia:
+Para evaluar de manera integral la variable dependiente, se establece un conjunto multidimensional de cinco indicadores de eficiencia:
 
 1. **Tiempo de Ciclo Operativo ($T_c$):** Duración total desde que se inicia una solicitud hasta que queda registrada de forma persistente en el sistema.
 2. **Tiempo de Intervención Administrativa ($T_a$):** Tiempo neto empleado por el personal del centro (secretaría/fisioterapeutas) para validar, procesar o confirmar una operación.
